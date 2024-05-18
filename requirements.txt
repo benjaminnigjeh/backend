@@ -1,4 +1,5 @@
-fisher_py==1.0.10
+fisher_py
 git+https://github.com/wilhelm-lab/spectrum_fundamentals.git
 wget
-pythonnet==2.5.2
+pythonnet
+pandas
