@@ -10,6 +10,7 @@ import sys
 import os
 import traceback
 from typing import List
+import fisher_py
 from fisher_py.raw_file_reader import RawFileReaderAdapter, RawFileAccess
 from fisher_py.data.business import GenericDataTypes, ChromatogramTraceSettings, TraceType, ChromatogramSignal, SpectrumPacketType, Scan
 from fisher_py.data.filter_enums import MsOrderType
